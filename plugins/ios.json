@@ -1,0 +1,41 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-googlemaps": {
+      "API_KEY_FOR_IOS": "AIzaSyCRw0rNg7jGFWAAZyROlUdhJkfLkJN6tVU",
+      "LOCATION_WHEN_IN_USE_DESCRIPTION": "Show your location on the map",
+      "LOCATION_ALWAYS_USAGE_DESCRIPTION": "Trace your location on the map",
+      "PACKAGE_NAME": "com.domou-ndar.yoonwi"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.domou-ndar.yoonwi"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.domou-ndar.yoonwi"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.domou-ndar.yoonwi"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "com.domou-ndar.yoonwi"
+    },
+    "cordova-plugin-geolocation": {
+      "GEOLOCATION_USAGE_DESCRIPTION": "To locate you",
+      "PACKAGE_NAME": "com.domou-ndar.yoonwi"
+    }
+  },
+  "dependent_plugins": {
+    "com.googlemaps.ios": {
+      "PACKAGE_NAME": "com.domou-ndar.yoonwi"
+    },
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "com.domou-ndar.yoonwi"
+    }
+  }
+}
